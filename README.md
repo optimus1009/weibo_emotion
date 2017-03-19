@@ -1,4 +1,3 @@
-fix bug
 # weibo_emotion
 情感分析项目
 
